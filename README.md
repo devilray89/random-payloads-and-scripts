@@ -3,3 +3,5 @@ Here is a collection of scripts, payloads, and other things that I have used eit
 
 
 Add 1: proc_open() PHP Reverse shell
+
+Add 2: HTTP Fuzzer using Python
